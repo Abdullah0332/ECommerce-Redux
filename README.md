@@ -20,7 +20,10 @@ npm i
 ```
 cd backend
 npm start
+&
+cd frontend
+npm start
 ```
 
 ### Go To
-http://localhost:5000
+http://localhost:3000
