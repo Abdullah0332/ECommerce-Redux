@@ -20,7 +20,17 @@ npm i
 ```
 cd backend
 npm start
+<<<<<<< HEAD
 ```
 
 ### Go To
 http://localhost:5000
+=======
+&
+cd frontend
+npm start
+```
+
+### Go To
+http://localhost:3000
+>>>>>>> cac9597ad861f9e3dcf65cfa1f662e78ab5d2145
